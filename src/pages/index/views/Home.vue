@@ -1,7 +1,8 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img alt="Vue logo" src="/src/assets/logo.png">
+    <!-- <HelloWorld msg="Vue.js App"/> -->
+    <p>index-index - index - index - index</p>
   </div>
 </template>
 
